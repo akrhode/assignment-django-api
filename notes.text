@@ -1,0 +1,28 @@
+User Credentials
+
+Superuser
+    username: admin
+    email: adminlittle@lemon.com
+    password: little-376!
+    token: d67cccbbe5b17c9ac6a298adc15f031b7d8743ab
+
+
+Manager
+    username: johndoe
+    email: johndoe@lemon.com
+    password: li+!9870
+    token: ab3db5acaea8a3fab6b32af15be16319696d9024
+
+
+Delivery Crew
+    username: tomdeli
+    email: tomdeli@lemon.com
+    password: 348-Aefg
+    token: b48242dc0491500ef0b1f310340889793cd1f203
+
+
+User / Customer
+    username: jimmydoe
+    email: jimmy@customer.com
+    password: 1234+!li
+    token: 779f096a08ffb1531556193ad478b7c8c4dc3c92

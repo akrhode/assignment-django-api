@@ -1,0 +1,3 @@
+# assignment-django-api
+
+Assignment for the course "APIs" which is part of the "Meta Back-End Developer Professional Certificate". This project is a back-end API the fictitious restaurant "Little Lemon" that allows customers to browse food items, view the item of the day and place orders. Managers are able to update the item of the day and monitor orders and assign deliveries. The delivery crew can check the orders assigned to them and can update an order once it’s delivered.
